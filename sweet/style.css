@@ -1,0 +1,28 @@
+html,body{
+  font-family:'Popins',sans-serif;
+  color:#222;
+}
+
+footer{
+background-color: #3f3f3f;
+color: #d5d5d5;
+padding-top: 2rem;
+}
+.jumbotron{
+  padding: 1rem;
+  border-radius:0;
+  text-align: center;
+}
+.padding{
+  padding-bottom: 2rem;
+.carousel img{
+  width:80%;
+  height:80%;
+}
+
+ .light{
+    border: 1px solid #d5d5d5
+    width:100%
+    margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  }
